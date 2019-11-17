@@ -6,7 +6,7 @@ Curation of selected resources to exponentially increase learning curve in any f
 
 ### Blockchain 101
 1. https://taylorpearson.me/blockchain-for-dummies/
-  - Very basic 101 intro. 
+    - Very basic 101 intro. 
 2. https://www.youtube.com/watch?v=3xGLc-zz9cA&t=8s
 3. https://www.youtube.com/watch?v=hYip_Vuv8J0
 4. Why blockchain at all? 
@@ -18,15 +18,15 @@ https://unchainedpodcast.com/paritys-jutta-steiner-and-gavin-wood-on-polkadot-su
 
 ### Ethereum: 
 * https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8
-  - Interesting thesis for finding ideas. 
+    - Interesting thesis for finding ideas. 
 
 ### Interoperable Blockchains 101
 1. https://blog.cosmos.network/why-application-specific-blockchains-make-sense-32f2073bfb37
-  - Case for why polkadot/cosmos make sense: 
+    - Case for why polkadot/cosmos make sense: 
 2. https://www.youtube.com/watch?v=XAetXKTikLM
-  - Intro to Cosmos network
-  - Very good recap of first generation, second generation and third generation blockchains. 
-  - Kingdom theory applied to blockchains to help build mental models. 
+    - Intro to Cosmos network
+    - Very good recap of first generation, second generation and third generation blockchains. 
+    - Kingdom theory applied to blockchains to help build mental models. 
 
 
 
@@ -36,10 +36,10 @@ Recommended to have basic understanding of what a blockchain is before starting 
 
 #### Bitcoin
 * https://www.youtube.com/watch?v=l9jOJk30eQs&t=50s
-  - short 5 minutes intro.
+  * short 5 minutes intro.
 * https://www.youtube.com/watch?v=Lx9zgZCMqXE&t=1063s
-  - Length technical explanation of Bitcoin that goes into the depths of the how the tech functions.
-  - Recommended if you want to understand how Proof of Work actually works inside code. 
+  * Length technical explanation of Bitcoin that goes into the depths of the how the tech functions.
+  * Recommended if you want to understand how Proof of Work actually works inside code. 
 
 #### Finality
 1. probabilistic finality. 
