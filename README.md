@@ -74,6 +74,7 @@ Algorithms:
 ## Functional Programming: 
 * https://github.com/MostlyAdequate/mostly-adequate-guide
 * https://github.com/getify/Functional-Light-JS
+* https://www.preethikasireddy.com/post/learn-the-fundamentals-of-functional-programming
 
 ## Frontend: 
 
