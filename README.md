@@ -16,6 +16,10 @@ Curation of selected resources to exponentially increase learning curve in any f
 
 https://unchainedpodcast.com/paritys-jutta-steiner-and-gavin-wood-on-polkadot-substrate-and-the-frozen-funds/
 
+### Resources in kickstarting your deep dive into the crypto rabbit hole: 
+* https://medium.com/yanda/getting-up-to-speed-on-crypto-195e5d494bb7
+* https://www.lopp.net/bitcoin-information.html
+
 ### Ethereum: 
 * https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8
     - Interesting thesis for finding ideas. 
