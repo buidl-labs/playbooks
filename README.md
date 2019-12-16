@@ -96,3 +96,6 @@ Algorithms:
 
 ### What is money? 
 * https://www.youtube.com/watch?time_continue=1&v=2nBPN-MKefA
+
+## Product Management  
+https://www.learnpmwith.me/fundamentalconcpets/thepractise/
