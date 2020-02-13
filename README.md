@@ -32,7 +32,8 @@ https://unchainedpodcast.com/paritys-jutta-steiner-and-gavin-wood-on-polkadot-su
     - Very good recap of first generation, second generation and third generation blockchains. 
     - Kingdom theory applied to blockchains to help build mental models. 
 
-
+### Beginner Guides: 
+https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887
 
 
 ### Crytocurrency: 
