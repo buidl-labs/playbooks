@@ -36,7 +36,7 @@ https://unchainedpodcast.com/paritys-jutta-steiner-and-gavin-wood-on-polkadot-su
 https://medium.com/@linda.xie/beginners-guide-series-on-cryptoassets-d897535d887
 
 
-### Crytocurrency: 
+### Cryptocurrency: 
 Recommended to have basic understanding of what a blockchain is before starting anything in this section. 
 
 #### Bitcoin
