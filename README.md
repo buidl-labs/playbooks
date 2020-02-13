@@ -99,5 +99,6 @@ Algorithms:
 * https://www.youtube.com/watch?time_continue=1&v=2nBPN-MKefA
 
 ## Product Management  
-https://www.learnpmwith.me/fundamentalconcpets/thepractise/
-https://www.amazon.com/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=The+Mom+Test&qid=1581587920&s=books&sr=1-1
+* https://www.learnpmwith.me/fundamentalconcpets/thepractise/
+
+* https://www.amazon.com/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=The+Mom+Test&qid=1581587920&s=books&sr=1-1
